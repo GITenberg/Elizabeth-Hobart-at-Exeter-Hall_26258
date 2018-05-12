@@ -1,0 +1,33 @@
+_repo: Elizabeth-Hobart-at-Exeter-Hall_26258
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Vosburgh, R. G.
+    gutenberg_agent_id: '31885'
+    url: http://www.gutenberg.org/2009/agents/31885
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Baird, Jean K. (Jean Katherine)
+    alias: Baird, Jean Katherine
+    birthdate: 1872
+    deathdate: 1918
+    gutenberg_agent_id: '31884'
+    url: http://www.gutenberg.org/2009/agents/31884
+description: ''
+gutenberg_issued: '2008-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26258'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Boarding schools -- Fiction'
+title: Elizabeth Hobart at Exeter Hall
+url: http://www.gutenberg.org/ebooks/26258
